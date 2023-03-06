@@ -1,0 +1,117 @@
+Id;Label;timeset;Gender;Flemish vs Francophone University;Alma Mater;Nationality;Field of Expertise;University
+0;Stefan Sottiaux;;m;FL;UAntwerpen;Be;Constitutional Law;KULeuven
+1;Arthur Dyevre;;m;FL;Universite Pantheon-Sorbonne;Fr;Legal Theory/Law&Empiricism;KULeuven
+2;Jan Wouters;;m;FL;KULeuven;Be;International Law;KULeuven
+3;Sophie Styns;;f;FL;KULeuven;Be;Law of Obligations;KULeuven
+4;Patrick Wery;;m;FR;Universite de Liege;Be;Law of Obligations;UCLouvain
+5;Elise Muir;;f;FL;;Fr;European Law;KULeuven
+6;Gleider Hernandez;;m;FL;Oxford University;Can;International Law;KULeuven
+7;Piet Van Nuffel;;m;FL;KULeuven;Be;European Law;KULeuven
+8;Geert Van Calster;;m;FL;KULeuven;Be;Private International Law;KULeuven
+9;Christian Behrendt;;m;FL/FR;Universite de Liege;Be/Ger;Constitutional Law;KULeuven
+10;Steven Lierman;;m;FL;UAntwerpen;Be;Administrative Law;KULeuven
+11;Benoit Allemeersch;;m;FL;KULeuven;Be;Civil Procedure Law;KULeuven
+12;Vincent Sagaert;;m;FL;KULeuven;Be;Property Law;KULeuven
+13;Matthias Edward Storme;;m;FL;KULeuven;Be;Insolvency Law;KULeuven
+14;Monica Claes;;f;FL (Dutch);KULeuven;Be;European Law;Maastricht University
+15;Anton Vedder;;m;FL;KULeuven;Be;IT Law;KULeuven
+16;Herman Nys;;m;FL;KULeuven;Be;Medical Law;KULeuven
+17;Bernard Tilleman;;m;FL;KULeuven;Be;Contract Law !!;KULeuven
+18;Alain Laurent Verbeke;;m;FL;KULeuven;Be;Family Property Law;KULeuven
+19;Stefaan Pleysier;;m;FL;KULeuven;Be;Criminology;KULeuven
+20;Johan Put;;m;FL;KULeuven;Be;Youth Protection Law;KULeuven
+21;Raf Geenens;;m;FL;KULeuven;Be;Legal Philosophy;KULeuven
+22;Stefaan Voet;;m;FL;UGent;Be;Civil Procedure Law;KULeuven
+23;Ilse Samoy;;f;FL;KULeuven;Be;Law of Obligations;KULeuven
+24;Michele Panzavolta;;m;FL;University of Urbino;It;Eur & Int Criminal Law;KULeuven
+25;Frank Verbruggen;;m;FL;KULeuven;Be;Criminal Law;KULeuven
+26;Tobias Nowak;;m;;University of Groningen;Ger;Political Science;University of Groningen
+27;Geert De Baere;;m;FL;King's College Cambridge;Be;EU & Int Law;KULeuven
+28;Esther Van Zimmeren;;f;FL;KULeuven;Be;IP Law & Governance;UAntwerp
+29;Tom Ruys;;m;FL;KULeuven;Be;Int Law;
+30;Luc De Broe;;m;FL;KULeuven;Be;Tax Law;KULeuven
+31;Axel Cordewener;;m;FL;University of Bonn;Ger;European Taxation;KULeuven
+32;Jeroen Maesschalck;;m;FL;KULeuven;Be;Criminology;KULeuven
+33;Gaël Chantepie;;m;;Universite Pantheon-Sorbonne;Fr;Law of Obligations;University of Lille
+34;Tom Daems;;m;FL;KULeuven;Be;Criminology;KULeuven
+35;Tom Vander Beken;;m;FL;UGent;Be;Criminology;UGent
+36;Peggy Valcke;;f;FL;KULeuven;Be;Law and Technology;
+37;Eleni Kosta;;f;;KULeuven;Gr;Technology Law;Tilburg University
+38;Evelyne Terryn;;f;FL;KULeuven;Be;Consumer Law;KULeuven
+39;Geertrui Van Overwalle;;f;FL;KULeuven;Be;IP Law;
+40;Marie-Christine Janssens;;f;FL;KULeuven;Be;IP Law;KULeuven
+41;Paul Lemmens;;m;FL;KULeuven;Be;Human Rights Law;KULeuven
+42;Paul Schoukens;;m;FL;KULeuven;Be;Social Security Law;KULeuven
+43;Borja Suárez Coruja;;m;;;Sp;Social Security Law;University of Madrid
+44;Eva Lievens;;f;FL;KULeuven;Be;Technology Law;
+45;Koen Geens;;m;FL;KULeuven;Be;Company Law;KULeuven
+46;Veerle Colaert;;f;FL;KULeuven;Be;Financial Law;KULeuven
+47;Raf Verstraeten;;m;FL;KULeuven;Be;Criminal Procedure Law;KULeuven
+48;Seda Gürses;;f;FL;;Tur;Technology Law;KULeuven
+49;Kurt Willems;;m;FL;KULeuven;Be;Education Law;KULeuven
+50;Bert Keirsbilck;;m;FL;KULeuven;Be;Consumer Law;KULeuven
+51;Danny Pieters;;m;FL;KULeuven;Be;Social Law;KULeuven
+52;Bert Demarsin;;m;FL;KULeuven;Be;Art & Cultural Property Law;KULeuven
+53;Anne Draye;;f;FL;KULeuven;Be;Environmental Law;UHasselt
+54;Bernard Vanheusden;;m;FL;KULeuven;Be;Environmental Law;UHasselt
+55;Wim Decock;;m;FL;KULeuven;Be;Legal History;KULeuven
+56;Emanuele Conte;;m;;University of Milano-Statale;It;Legal History;Roma Tre University
+57;Renate Barbaix;;f;FL;UAntwerpen;Be;Family Property Law;UAntwerpen
+58;Kim Loyens;;f;;KULeuven;Be;Criminology;Utrecht University
+59;Frans Vanistendael;;m;FL;KULeuven;Be;Tax Law;KULeuven
+60;Laurent Waelkens;;m;FL;Leiden University;Be;Roman Law;KULeuven
+61;Charlotte Declerck;;f;FL;KULeuven;Be;Family Property Law;UHasselt
+62;Johan Goethals;;m;FL;KULeuven;Be;Criminology;KULeuven
+63;Alison Liebling;;f;;University of Cambridge;Br;Criminology;University of Cambridge
+64;Frank Fleerackers;;m;FL;KULeuven;Be;Legal Theory;KULeuven
+65;Nicole Vettenburg;;f;FL;KULeuven;Be;Criminology;UGent
+66;Stephan Parmentier;;m;FL;KULeuven;Be;Law and Sociology;KULeuven
+67;Wouter Vandenhole;;m;FL;KULeuven;Be;Human Rights Law;UAntwerpen
+68;Kurt Deketelaere;;m;FL;KULeuven;Be;Environmental Law;KULeuven
+69;Marleen Van Rijswick;;f;;Utrecht University;Ned;Environmental Law;Utrecht University
+70;Katalin Ligeti;;f;;University of Hamburg;It;Eur & Int Criminal Law;University of Luxembourg
+71;Marie-Claire Foblets;;f;FL;KULeuven;Be;Legal Anthropology;KULeuven
+72;Patrick Devlieger;;m;FL;University of Illinois;Be;Anthropology;KULeuven
+73;Cedric Ryngaert;;m;;KULeuven;Be;International Law;Utrecht University
+74;Frank Hendrickx;;m;FL;KULeuven;Be;Labor Law;KULeuven
+75;Stefaan Callens;;m;FL;KULeuven;Be;Health Law;KULeuven
+76;Herman Cousy;;m;FL;KULeuven;Be;Insurance Law;KULeuven
+77;Caroline Van Schoubroeck;;f;FL;KULeuven;Be;Insurance Law;KULeuven
+78;Ivo Aertsen;;m;FL;KULeuven;Be;Criminology;KULeuven
+79;Lode Walgrave;;m;FL;KULeuven;Be;Criminology;KULeuven
+80;Olivier De Schutter;;m;FR;UCLouvain;Be;International Law;UCLouvain
+81;Tom Dedeurwaerdere;;m;FR;UCLouvain;Be;Philosophy of Science;UCLouvain
+82;Letizia Paoli;;f;FL;European University Institute;It;Criminology;KULeuven
+83;Fabien Ohl;;m;;;Swi;Sociology of Sport;University of Lausanne
+84;Els Kindt;;f;FL;KULeuven;Be;ICT & Privacy Law;KULeuven
+85;Wouter Devroe;;m;FL;KULeuven;Be;Competition Law;KULeuven
+86;Jan Van den Bulck;;m;FL;KULeuven;Be;Sociology;KULeuven
+87;Koen Lenaerts;;m;FL;KULeuven;Be;European Law;KULeuven
+88;Marieke Wyckaert;;f;FL;KULeuven;Be;Company Law;KULeuven
+89;Walter Pintens;;m;FL;KULeuven;Be;Family Property Law;KULeuven
+90;Hendrik Van Hees;;m;FL;UGent;Be;IP Law;UGent
+91;Johan Leman;;m;FL;KULeuven;Be;Social & Cultural Anthropology;KULeuven
+92;Andre Alen;;m;FL;KULeuven;Be;Constitutional Law;KULeuven
+93;Geert Vervaeke;;m;FL;KULeuven;Be;Psychology;KULeuven
+94;Dirk Vanheule;;m;FL;UAntwerpen;Be;Constitutional Law;
+95;Sofie De Kimpe;;f;FL;UGent;Be;Criminology;VUB
+96;Julien Stuyck;;m;FL;KULeuven;Be;Competition Law;KULeuven
+97;Elmar Weitekamp;;m;;The Wharton School;Be;Criminology;University of Tuebingen
+98;Rene Foque;;m;FL;KULeuven;Be;Legal Philosophy;KULeuven
+99;Jozef Van Langendonck;;m;FL;KULeuven;Be;Social Law;KULeuven
+100;Hugo Vandenberghe;;m;FL;KULeuven;Be;Property Law;KULeuven
+101;Eric Dirix;;m;FL;UAntwerpen;Be;Insolvency Law;KULeuven
+102;Lieven Pauwels;;m;FL;UGent;Be;Criminology;UGent
+103;Othmar Vanachter;;m;FL;KULeuven;Be;Employment Law;KULeuven
+104;Emanuele Conte;;m;;University of Milano-Statale;It;Legal History;Roma Tre University
+105;Jos Dumortier;;m;FL;KULeuven;Be;ICT Law;KULeuven
+106;Ronnie Belmans;;m;FL;KULeuven;Be;Energy Engineering;KULeuven
+107;Paul Van Orshoven;;m;FL;KULeuven;Be;Civil Procedure Law;KULeuven
+108;Frank Gotzen;;m;FL;KULeuven;Be;IP Law;KULeuven
+109;Lieven Dupont;;m;FL;KULeuven;Be;Penal Law;KULeuven
+110;Antonius Peters;;m;;;;;
+111;Luc Huyse;;m;FL;KULeuven;Be;Sociology;KULeuven
+112;Roger Blanpain;;m;FL;KULeuven;Be;Labour Law;KULeuven
+113;Cyrille Fijnaut;;m;FL;KULeuven;Be;Criminology;KULeuven
+114;Frank Hutsebaut;;m;FL;KULeuven;Be;Penal Law;KULeuven
+115;Frans Bouckaert;;m;FL;UGent;Be;Corporate Law;KULeuven

@@ -1,0 +1,171 @@
+Source,Target,Type,Kind,Id,Label,timeset,Weight,MMNT-EdgeType,Academic Year
+7,11,Undirected,co-promotion,6,Nowak,,1,,2020-2021
+2,8,Undirected,co-promotion,7,Cogolati,,1,,2020-2021
+12,13,Undirected,co-promotion,8,Verheye,,1,,2020-2021
+5,14,Undirected,co-promotion,9,Dermine,,1,,2020-2021
+15,16,Undirected,co-promotion,10,Verhenneman,,1,,2020-2021
+17,18,Undirected,co-promotion,11,Van Damme,,1,,2020-2021
+19,20,Undirected,co-promotion,12,Coenen,,1,,2020-2021
+0,21,Undirected,co-promotion,13,Maes,,1,,2019-2020
+1,2,Undirected,co-promotion,14,Ovadek,,1,,2019-2020
+17,18,Undirected,co-promotion,15,Gladinez,,1,,2019-2020
+22,23,Undirected,co-promotion,16,Gillaerts,,1,,2019-2020
+24,25,Undirected,co-promotion,17,Royer,,1,,2019-2020
+1,26,Undirected,co-promotion,18,Glavina,,1,,2019-2020
+27,28,Undirected,co-promotion,19,Tanghe,,1,,2019-2020
+2,29,Undirected,co-promotion,20,Verlinden,,1,,2019-2020
+30,31,Undirected,co-promotion,21,Rolle,,1,,2019-2020
+19,32,Undirected,co-promotion,22,Paesen,,1,,2019-2020
+2,8,Undirected,co-promotion,23,Willemyns,,1,,2019-2020
+27,0,Undirected,co-promotion,24,Verellen,,1,,2018-2019
+12,33,Undirected,co-promotion,25,Demeyere,,1,,2018-2019
+34,35,Undirected,co-promotion,26,Gudders,,1,,2018-2019
+36,37,Undirected,co-promotion,27,Clifford,,1,,2018-2019
+38,17,Undirected,co-promotion,28,Vandemaele,,1,,2018-2019
+39,28,Undirected,co-promotion,29,Gorbatyuk,,1,,2018-2019
+39,40,Undirected,co-promotion,30,Léonard,,1,,2018-2019
+10,41,Undirected,co-promotion,31,Van De Weyer,,1,,2018-2019
+17,18,Undirected,co-promotion,32,Vancoppernolle,,1,,2018-2019
+42,43,Undirected,co-promotion,33,Rodriguez,,1,,2018-2019
+36,44,Undirected,co-promotion,34,Verdoodt,,1,,2018-2019
+17,3,Undirected,co-promotion,35,De Rey,,1,,2018-2019
+17,45,Undirected,co-promotion,36,Hallemeersch,,1,,2018-2019
+41,8,Undirected,co-promotion,37,Daelman,,1,,2018-2019
+46,47,Undirected,co-promotion,38,Incalza,,1,,2018-2019
+3,23,Undirected,co-promotion,39,Verjans (!! Herman Nys third co-promotor),,1,,2018-2019
+36,48,Undirected,co-promotion,40,Ausloos (!! Eleni Kosta third co-promotor),,1,,2018-2019
+25,47,Undirected,co-promotion,41,Bailleux,,1,,2018-2019
+0,49,Undirected,co-promotion,42,Lievens,,1,,2018-2019
+38,50,Undirected,co-promotion,43,De Pourcq,,1,,2017-1018
+42,51,Undirected,co-promotion,44,De Becker (!! Geert De Baere third co-promotor),,1,,2017-2018
+52,53,Undirected,co-promotion,45,Aerts,,1,,2017-2018
+8,54,Undirected,co-promotion,46,de Römph,,1,,2017-2018
+55,56,Undirected,co-promotion,47,Astorri,,1,,2017-2018
+18,57,Undirected,co-promotion,48,Van Den Broeck,,1,,2017-2018
+3,23,Undirected,co-promotion,49,Peeraer,,1,,2017-2018
+32,58,Undirected,co-promotion,50,Stinckens,,1,,2017-2018
+36,44,Undirected,co-promotion,51,Kuczerawy,,1,,2017-2018
+30,59,Undirected,co-promotion,52,Fernandes,,1,,2017-2018
+17,18,Undirected,co-promotion,53,Vynckier,,1,,2017-2018
+55,60,Undirected,co-promotion,54,Druwé,,1,,2017-2018
+25,61,Undirected,co-promotion,55,Marlier,,1,,2017-2018
+36,46,Undirected,co-promotion,56,Vandezande,,1,,2017-2018
+17,18,Undirected,co-promotion,57,Swennen,,1,,2017-2018
+2,27,Undirected,co-promotion,58,Duquet,,1,,2017-2018
+62,63,Undirected,co-promotion,59,Robert,,1,,2017-2018
+11,64,Undirected,co-promotion,60,Nelissen,,1,,2017-2018
+19,65,Undirected,co-promotion,61,Burssens,,1,,2017-2018
+66,67,Undirected,co-promotion,62,Saeed,,1,,2017-2018
+68,69,Undirected,co-promotion,63,Suykens,,1,,2017-2018
+25,70,Undirected,co-promotion,64,Lamberigts,,1,,2016-2017
+71,72,Undirected,co-promotion,65,Di-Makungu,,1,,2016-2017
+23,11,Undirected,co-promotion,66,Vandenbussche,,1,,2016-2017
+19,20,Undirected,co-promotion,67,Verdonck,,1,,2016-2017
+12,18,Undirected,co-promotion,68,Dewitte,,1,,2016-2017
+27,73,Undirected,co-promotion,69,Freitas de Barros,,1,,2016-2017
+20,19,Undirected,co-promotion,70,Troonbeeckx,,1,,2016-2017
+15,74,Undirected,co-promotion,71,Van Der Sype,,1,,2016-2017
+8,2,Undirected,co-promotion,72,Bijlmakers,,1,,2016-2017
+2,41,Undirected,co-promotion,73,Meeuwissen,,1,,2016-2017
+38,75,Undirected,co-promotion,74,Syx,,1,,2016-2017
+76,77,Undirected,co-promotion,75,Goessens,,1,,2016-2017
+25,47,Undirected,co-promotion,76,Conings,,1,,2016-2017
+78,79,Undirected,co-promotion,77,Pali,,1,,2016-2017
+2,73,Undirected,co-promotion,78,Chan,,1,,2016-2017
+39,80,Undirected,co-promotion,79,Frison (!! Tom Dedeurwaerdere third co-promotor),,1,,2016-2017
+82,74,Undirected,co-promotion,80,Fincoeur (!! Fabien Ohl third co-promotor),,1,,2016-2017
+17,4,Undirected,co-promotion,81,Verkempinck,,1,,2015-2016
+42,51,Undirected,co-promotion,82,Kestemont,,1,,2015-2016
+2,8,Undirected,co-promotion,83,Geraets,,1,,2015-2016
+12,18,Undirected,co-promotion,84,Apers,,1,,2015-2016
+36,84,Undirected,co-promotion,85,Van Alsenoy,,1,,2015-2016
+36,85,Undirected,co-promotion,86,Graef,,1,,2015-2016
+82,19,Undirected,co-promotion,87,Adriaenssen (!! Jan Van den Bulck third co-promotor),,1,,2015-2016
+25,47,Undirected,co-promotion,88,Huysmans,,1,,2015-2016
+17,18,Undirected,co-promotion,89,Johanna Waelkens,,1,,2015-2016
+71,7,Undirected,co-promotion,90,Verbist (!! Piet Van Nuffel third co-promotor),,1,,2015-2016
+12,18,Undirected,co-promotion,91,Gruyaert,,1,,2015-2016
+87,41,Undirected,co-promotion,92,Van Malleghem,,1,,2015-2016
+45,88,Undirected,co-promotion,93,De Dier,,1,,2015-2016
+74,3,Undirected,co-promotion,94,Van Bever,,1,,2015-2016
+32,19,Undirected,co-promotion,95,Wouters,,1,,2015-2016
+85,30,Undirected,co-promotion,96,Vervoort,,1,,2015-2016
+89,18,Undirected,co-promotion,97,Goossens,,1,,2015-2016
+40,90,Undirected,co-promotion,98,Coene,,1,,2015-2016
+82,91,Undirected,co-promotion,99,Van Hellemont (!! Lode Walgrave third co-promotor),,1,,2015-2016
+0,92,Undirected,co-promotion,100,D'Espallier,,1,,2014-2015
+3,4,Undirected,co-promotion,101,Jansen,,1,,2014-2015
+2,8,Undirected,co-promotion,102,Natens,,1,,2014-2015
+18,17,Undirected,co-promotion,103,Brulez,,1,,2014-2015
+17,18,Undirected,co-promotion,104,Withofs,,1,,2014-2015
+93,20,Undirected,co-promotion,105,Goedseels,,1,,2014-2015
+2,8,Undirected,co-promotion,106,Rojas,,1,,2014-2015
+71,94,Undirected,co-promotion,107,Maes,,1,,2014-2015
+12,18,Undirected,co-promotion,108,Bouly,,1,,2014-2015
+32,95,Undirected,co-promotion,109,De Schrijver,,1,,2014-2015
+96,85,Undirected,co-promotion,110,Parlak,,1,,2013-2014
+42,51,Undirected,co-promotion,111,Sokol,,1,,2013-2014
+17,18,Undirected,co-promotion,112,Vandenbogaerde,,1,,2013-2014
+17,18,Undirected,co-promotion,113,Verheyen,,1,,2013-2014
+66,97,Undirected,co-promotion,114,Bueno,,1,,2013-2014
+85,45,Undirected,co-promotion,115,Van Cleynenbreugel,,1,,2012-2013
+16,77,Undirected,co-promotion,116,Defloor,,1,,2012-2013
+12,18,Undirected,co-promotion,117,Swinnen,,1,,2012-2013
+25,87,Undirected,co-promotion,118,Franssen,,1,,2012-2013
+92,87,Undirected,co-promotion,119,Cloots,,1,,2012-2013
+12,18,Undirected,co-promotion,120,del Corral,,1,,2012-2013
+17,18,Undirected,co-promotion,121,De Man,,1,,2012-2013
+3,23,Undirected,co-promotion,122,Lenaerts,,1,,2012-2013
+2,98,Undirected,co-promotion,123,Verhoeven,,1,,2011-2012
+38,23,Undirected,co-promotion,124,Naeyaert (!! Bernard Tilleman third co-promotor),,1,,2011-2012
+78,62,Undirected,co-promotion,125,Bolivar,,1,,2011-2012
+20,99,Undirected,co-promotion,126,Flohimont,,1,,2011-2012
+18,100,Undirected,co-promotion,127,Muylle (!!Vincent Sagaert third co-promotor),,1,,2011-2012
+45,101,Undirected,co-promotion,128,Vananroye,,1,,2011-2012
+20,102,Undirected,co-promotion,129,Op de Beeck,,1,,2011-2012
+103,74,Undirected,co-promotion,130,Vandeputte,,1,,2011-2012
+60,104,Undirected,co-promotion,131,Decock,,1,,2011-2012
+20,19,Undirected,co-promotion,132,Cops,,1,,2011-2012
+78,62,Undirected,co-promotion,133,De Mesmaecker,,1,,2011-2012
+17,18,Undirected,co-promotion,134,Heeb,,1,,2011-2012
+36,105,Undirected,co-promotion,135,Lefever (!! Frank Hendrickx third co-promotor),,1,,2011-2012
+68,106,Undirected,co-promotion,136,Delvaux,,1,,2011-2012
+17,18,Undirected,co-promotion,138,Willems,,1,,2010-2011
+36,96,Undirected,co-promotion,139,Hou,,1,,2010-2011
+51,42,Undirected,co-promotion,140,Kapuy,,1,,2010-2011
+105,36,Undirected,co-promotion,141,Kosta,,1,,2010-2011
+75,85,Undirected,co-promotion,142,Fornaciari,,1,,2010-2011
+96,85,Undirected,co-promotion,143,Peeters,,1,,2010-2011
+18,17,Undirected,co-promotion,144,Carette,,1,,2010-2011
+92,107,Undirected,co-promotion,145,Theunis,,1,,2010-2011
+2,87,Undirected,co-promotion,146,De Meester,,1,,2010-2011
+17,18,Undirected,co-promotion,147,Andries,,1,,2010-2011
+18,17,Undirected,co-promotion,148,Hoekx,,1,,2010-2011
+76,77,Undirected,co-promotion,149,Thiery,,1,,2009-2010
+87,25,Undirected,co-promotion,150,Gros-Tchorbadjiyska,,1,,2009-2010
+71,41,Undirected,co-promotion,151,Desmet,,1,,2009-2010
+85,96,Undirected,co-promotion,152,Keirsbilck (!! Evelyne Terryn third co-promotor),,1,,2009-2010
+68,8,Undirected,co-promotion,153,Gao,,1,,2009-2010
+105,36,Undirected,co-promotion,154,Lievens,,1,,2008-2009
+25,91,Undirected,co-promotion,155,Arsovska (!! Letizia Paoli third co-promotor),,1,,2008-2009
+17,18,Undirected,co-promotion,156,Claeys,,1,,2008-2009
+41,2,Undirected,co-promotion,157,Vanneste,,1,,2008-2009
+18,17,Undirected,co-promotion,158,Vanhove,,1,,2008-2009
+85,30,Undirected,co-promotion,159,Vyncke,,1,,2008-2009
+93,62,Undirected,co-promotion,160,Pleysier,,1,,2008-2009
+89,108,Undirected,co-promotion,161,Declerck,,1,,2008-2009
+17,18,Undirected,co-promotion,162,Demarsin,,1,,2007-2008
+85,96,Undirected,co-promotion,163,Brammer,,1,,2007-2008
+109,110,Undirected,co-promotion,164,Maes,,1,,2007-2008
+41,66,Undirected,co-promotion,165,Sardaro,,1,,2007-2008
+17,18,Undirected,co-promotion,166,Dehouck,,1,,2007-2008
+66,111,Undirected,co-promotion,167,Verdoodt,,1,,2006-2007
+92,98,Undirected,co-promotion,168,Haljan,,1,,2006-2007
+68,53,Undirected,co-promotion,169,Vanheusden,,1,,2006-2007
+17,18,Undirected,co-promotion,170,De Coninck,,1,,2006-2007
+59,112,Undirected,co-promotion,171,Tabu,,1,,2006-2007
+76,96,Undirected,co-promotion,172,Eyskens,,1,,2006-2007
+76,101,Undirected,co-promotion,173,Vanmeenen,,1,,2005-2006
+113,114,Undirected,co-promotion,174,Goossens,,1,,2005-2006
+18,115,Undirected,co-promotion,175,Byttebier,,1,,2005-2006
+96,3,Undirected,co-promotion,176,Terryn,,1,,2004-2005
